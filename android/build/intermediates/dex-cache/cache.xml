@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/incremental-classes/dev19/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7c5ad021098e1a45b3089de3cb7dd1cd058a920d">
+        <dex dex="/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10000/instant-run-bootstrap_c79817d424586acf8b2beb2ed7047e93202da257/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/incremental-runtime-classes/dev19/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10000/instant-run_37130c9a9b12ddaf28274fa9d2cd8e2dca164d8f/classes.dex" />
+    </item>
+
+</items>

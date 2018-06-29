@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/mipmap-hdpi/dev_icon.png",
+        "source": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/src/main/res/mipmap-hdpi/dev_icon.png"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/mipmap-hdpi/dev_icon.png",
+        "source": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/src/main/res/mipmap-hdpi/dev_icon.png"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

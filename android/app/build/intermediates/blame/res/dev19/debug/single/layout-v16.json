@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/Users/success/.android/build-cache/461dc17a8a0740adf30f9db76c1ed6b6ec6b8f3a/output/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/Users/macmall/.android/build-cache/eb0a014590302786c7ad55893cf1d5aecfcd701d/output/res/layout-v16/notification_template_custom_big.xml"
+    }
+]

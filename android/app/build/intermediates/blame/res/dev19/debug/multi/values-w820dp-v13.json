@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/incremental/mergeDev19DebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 287,
+                        "endColumn": 55,
+                        "endOffset": 340
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/incremental/mergeDev19DebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 287,
+                        "endColumn": 55,
+                        "endOffset": 340
+                    }
+                }
+            }
+        ]
+    }
+]

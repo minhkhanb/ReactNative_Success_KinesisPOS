@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/menu/crop_image_menu.xml",
+        "source": "/Users/success/.android/build-cache/8d1ca3f69d853deec1f2f6678db277a698458898/output/res/menu/crop_image_menu.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/menu/crop_image_menu.xml",
+        "source": "/Users/macmall/.android/build-cache/159981d932d24d721e3392e3b38e95e5a7660934/output/res/menu/crop_image_menu.xml"
+    }
+]

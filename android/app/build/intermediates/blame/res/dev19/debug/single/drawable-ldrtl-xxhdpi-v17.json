@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    }
+]

@@ -1,0 +1,7 @@
+#Fri Jun 29 10:28:44 ICT 2018
+base.0=/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10000/instant-run_37130c9a9b12ddaf28274fa9d2cd8e2dca164d8f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10000/instant-run-bootstrap_c79817d424586acf8b2beb2ed7047e93202da257/classes.dex
+base.1=/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10000/instant-run-bootstrap_c79817d424586acf8b2beb2ed7047e93202da257
+file.0=/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10000/instant-run_37130c9a9b12ddaf28274fa9d2cd8e2dca164d8f/classes.dex

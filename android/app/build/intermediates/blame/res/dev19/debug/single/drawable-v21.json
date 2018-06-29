@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/success/.android/build-cache/461dc17a8a0740adf30f9db76c1ed6b6ec6b8f3a/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/macmall/.android/build-cache/eb0a014590302786c7ad55893cf1d5aecfcd701d/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

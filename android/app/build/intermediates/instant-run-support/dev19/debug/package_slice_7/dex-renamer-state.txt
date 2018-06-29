@@ -1,0 +1,4 @@
+#Thu Jun 28 16:12:27 ICT 2018
+base.0=/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/5/slice_7
+renamed.0=classes.dex
+file.0=/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/5/slice_7/classes.dex

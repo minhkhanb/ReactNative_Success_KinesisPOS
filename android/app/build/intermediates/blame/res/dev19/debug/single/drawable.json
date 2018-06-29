@@ -1,0 +1,610 @@
+[
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/tooltip_frame_light.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/macmall/.android/build-cache/d870a4f669a3de626bc0744a0c97d519a6850d81/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/loading_status_bar_background.xml",
+        "source": "/Users/success/.android/build-cache/25106986090137c65608780b6435dbf05200bf51/output/res/drawable/loading_status_bar_background.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/card_input_custom_background.xml",
+        "source": "/Users/success/.android/build-cache/25106986090137c65608780b6435dbf05200bf51/output/res/drawable/card_input_custom_background.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/success/.android/build-cache/47031044f4c7e10e6236f570c9d8f75c074a11f9/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/spinner_background_holo_dark.xml",
+        "source": "/Users/success/.android/build-cache/25106986090137c65608780b6435dbf05200bf51/output/res/drawable/spinner_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/macmall/.android/build-cache/d870a4f669a3de626bc0744a0c97d519a6850d81/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/splash_background.xml",
+        "source": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/src/main/res/drawable/splash_background.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/macmall/.android/build-cache/eb0a014590302786c7ad55893cf1d5aecfcd701d/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/notification_bg.xml",
+        "source": "/Users/success/.android/build-cache/461dc17a8a0740adf30f9db76c1ed6b6ec6b8f3a/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_icon.xml",
+        "source": "/Users/success/.android/build-cache/ce358cd07e232338d4676d365cf3b1eff3293aa6/output/res/drawable/com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/messenger_button_blue_bg_selector.xml",
+        "source": "/Users/macmall/.android/build-cache/bfc05d387f313b93ed51d6e1d667a2d36df5436b/output/res/drawable/messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/success/.android/build-cache/47031044f4c7e10e6236f570c9d8f75c074a11f9/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/tooltip_frame_dark.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/macmall/.android/build-cache/d870a4f669a3de626bc0744a0c97d519a6850d81/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/crop_image_menu_crop_stub.xml",
+        "source": "/Users/success/.android/build-cache/8d1ca3f69d853deec1f2f6678db277a698458898/output/res/drawable/crop_image_menu_crop_stub.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/success/.android/build-cache/461dc17a8a0740adf30f9db76c1ed6b6ec6b8f3a/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_login_logo.xml",
+        "source": "/Users/macmall/.android/build-cache/d00b082acd08222757f62c33bce231f3b9228009/output/res/drawable/com_facebook_button_login_logo.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/card_512.png",
+        "source": "/Users/macmall/.android/build-cache/0059ef4ad7af005672f067717bf610b7a8c4af49/output/res/drawable/card_512.png"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/messenger_button_white_bg_round.xml",
+        "source": "/Users/macmall/.android/build-cache/bfc05d387f313b93ed51d6e1d667a2d36df5436b/output/res/drawable/messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_send_button_icon.xml",
+        "source": "/Users/macmall/.android/build-cache/c00ecbd42d177ec768e51d7729a4e5ca07fb0b39/output/res/drawable/com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/stp_card_form_back.png",
+        "source": "/Users/success/.android/build-cache/25106986090137c65608780b6435dbf05200bf51/output/res/drawable/stp_card_form_back.png"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_like_background.xml",
+        "source": "/Users/success/.android/build-cache/ce358cd07e232338d4676d365cf3b1eff3293aa6/output/res/drawable/com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/stp_card_form_back.png",
+        "source": "/Users/macmall/.android/build-cache/0059ef4ad7af005672f067717bf610b7a8c4af49/output/res/drawable/stp_card_form_back.png"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_send_button_icon.xml",
+        "source": "/Users/success/.android/build-cache/e3c4af731b7724d2d59b824b31239452e1dccb3d/output/res/drawable/com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/stp_card_form_front.png",
+        "source": "/Users/success/.android/build-cache/25106986090137c65608780b6435dbf05200bf51/output/res/drawable/stp_card_form_front.png"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_favicon_blue.xml",
+        "source": "/Users/success/.android/build-cache/ce358cd07e232338d4676d365cf3b1eff3293aa6/output/res/drawable/com_facebook_favicon_blue.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_auth_dialog_background.xml",
+        "source": "/Users/macmall/.android/build-cache/df8ed4ad654bb5b7862fcce59e9267e82c57cd13/output/res/drawable/com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/messenger_button_white_bg_round.xml",
+        "source": "/Users/success/.android/build-cache/e4992c71e3ca46b371ff51d40449dbca19bbbe2b/output/res/drawable/messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/messenger_button_blue_bg_round.xml",
+        "source": "/Users/macmall/.android/build-cache/bfc05d387f313b93ed51d6e1d667a2d36df5436b/output/res/drawable/messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/edit_text_holo_dark.xml",
+        "source": "/Users/success/.android/build-cache/25106986090137c65608780b6435dbf05200bf51/output/res/drawable/edit_text_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_send_background.xml",
+        "source": "/Users/success/.android/build-cache/e3c4af731b7724d2d59b824b31239452e1dccb3d/output/res/drawable/com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_auth_dialog_header_background.xml",
+        "source": "/Users/success/.android/build-cache/ce358cd07e232338d4676d365cf3b1eff3293aa6/output/res/drawable/com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/messenger_button_blue_bg_round.xml",
+        "source": "/Users/success/.android/build-cache/e4992c71e3ca46b371ff51d40449dbca19bbbe2b/output/res/drawable/messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/macmall/.android/build-cache/d870a4f669a3de626bc0744a0c97d519a6850d81/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/splash_background.xml",
+        "source": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/src/main/res/drawable/splash_background.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/header_dark.xml",
+        "source": "/Users/success/.android/build-cache/25106986090137c65608780b6435dbf05200bf51/output/res/drawable/header_dark.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/stp_card_form_front.png",
+        "source": "/Users/macmall/.android/build-cache/0059ef4ad7af005672f067717bf610b7a8c4af49/output/res/drawable/stp_card_form_front.png"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_login_background.xml",
+        "source": "/Users/macmall/.android/build-cache/d00b082acd08222757f62c33bce231f3b9228009/output/res/drawable/com_facebook_button_login_background.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/success/.android/build-cache/47031044f4c7e10e6236f570c9d8f75c074a11f9/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_icon.xml",
+        "source": "/Users/macmall/.android/build-cache/df8ed4ad654bb5b7862fcce59e9267e82c57cd13/output/res/drawable/com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/card_input_custom_background.xml",
+        "source": "/Users/macmall/.android/build-cache/0059ef4ad7af005672f067717bf610b7a8c4af49/output/res/drawable/card_input_custom_background.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/success/.android/build-cache/47031044f4c7e10e6236f570c9d8f75c074a11f9/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/success/.android/build-cache/47031044f4c7e10e6236f570c9d8f75c074a11f9/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/notification_bg.xml",
+        "source": "/Users/macmall/.android/build-cache/eb0a014590302786c7ad55893cf1d5aecfcd701d/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_like_background.xml",
+        "source": "/Users/macmall/.android/build-cache/df8ed4ad654bb5b7862fcce59e9267e82c57cd13/output/res/drawable/com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/crop_image_menu_crop_stub.xml",
+        "source": "/Users/macmall/.android/build-cache/159981d932d24d721e3392e3b38e95e5a7660934/output/res/drawable/crop_image_menu_crop_stub.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/macmall/.android/build-cache/eb0a014590302786c7ad55893cf1d5aecfcd701d/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/spinner_background_holo_dark.xml",
+        "source": "/Users/macmall/.android/build-cache/0059ef4ad7af005672f067717bf610b7a8c4af49/output/res/drawable/spinner_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/success/.android/build-cache/461dc17a8a0740adf30f9db76c1ed6b6ec6b8f3a/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_background.xml",
+        "source": "/Users/macmall/.android/build-cache/df8ed4ad654bb5b7862fcce59e9267e82c57cd13/output/res/drawable/com_facebook_button_background.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/tooltip_frame_light.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_auth_dialog_cancel_background.xml",
+        "source": "/Users/macmall/.android/build-cache/df8ed4ad654bb5b7862fcce59e9267e82c57cd13/output/res/drawable/com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/background_white.xml",
+        "source": "/Users/success/.android/build-cache/65e9592bc5f1203e0eed0afc9bed0bd0ade60b84/output/res/drawable/background_white.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/messenger_button_blue_bg_selector.xml",
+        "source": "/Users/success/.android/build-cache/e4992c71e3ca46b371ff51d40449dbca19bbbe2b/output/res/drawable/messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/header_dark.xml",
+        "source": "/Users/macmall/.android/build-cache/0059ef4ad7af005672f067717bf610b7a8c4af49/output/res/drawable/header_dark.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_send_background.xml",
+        "source": "/Users/macmall/.android/build-cache/c00ecbd42d177ec768e51d7729a4e5ca07fb0b39/output/res/drawable/com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_login_background.xml",
+        "source": "/Users/success/.android/build-cache/c60ca447a8fe3209c040260708b2c672c9482d97/output/res/drawable/com_facebook_button_login_background.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/macmall/.android/build-cache/d870a4f669a3de626bc0744a0c97d519a6850d81/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/success/.android/build-cache/47031044f4c7e10e6236f570c9d8f75c074a11f9/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_auth_dialog_background.xml",
+        "source": "/Users/success/.android/build-cache/ce358cd07e232338d4676d365cf3b1eff3293aa6/output/res/drawable/com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/background_white.xml",
+        "source": "/Users/macmall/.android/build-cache/da87fc3b01658306e10085b32364539a1996673c/output/res/drawable/background_white.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/macmall/.android/build-cache/eb0a014590302786c7ad55893cf1d5aecfcd701d/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_auth_dialog_header_background.xml",
+        "source": "/Users/macmall/.android/build-cache/df8ed4ad654bb5b7862fcce59e9267e82c57cd13/output/res/drawable/com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_login_silver_background.xml",
+        "source": "/Users/macmall/.android/build-cache/d00b082acd08222757f62c33bce231f3b9228009/output/res/drawable/com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_login_silver_background.xml",
+        "source": "/Users/success/.android/build-cache/c60ca447a8fe3209c040260708b2c672c9482d97/output/res/drawable/com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_background.xml",
+        "source": "/Users/success/.android/build-cache/ce358cd07e232338d4676d365cf3b1eff3293aa6/output/res/drawable/com_facebook_button_background.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/btn_default_holo_dark.xml",
+        "source": "/Users/macmall/.android/build-cache/0059ef4ad7af005672f067717bf610b7a8c4af49/output/res/drawable/btn_default_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/macmall/.android/build-cache/d870a4f669a3de626bc0744a0c97d519a6850d81/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/macmall/.android/build-cache/d870a4f669a3de626bc0744a0c97d519a6850d81/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/btn_default_holo_dark.xml",
+        "source": "/Users/success/.android/build-cache/25106986090137c65608780b6435dbf05200bf51/output/res/drawable/btn_default_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/success/.android/build-cache/47031044f4c7e10e6236f570c9d8f75c074a11f9/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_favicon_blue.xml",
+        "source": "/Users/macmall/.android/build-cache/df8ed4ad654bb5b7862fcce59e9267e82c57cd13/output/res/drawable/com_facebook_favicon_blue.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/edit_text_holo_dark.xml",
+        "source": "/Users/macmall/.android/build-cache/0059ef4ad7af005672f067717bf610b7a8c4af49/output/res/drawable/edit_text_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/messenger_button_white_bg_selector.xml",
+        "source": "/Users/macmall/.android/build-cache/bfc05d387f313b93ed51d6e1d667a2d36df5436b/output/res/drawable/messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/success/.android/build-cache/47031044f4c7e10e6236f570c9d8f75c074a11f9/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/card_512.png",
+        "source": "/Users/success/.android/build-cache/25106986090137c65608780b6435dbf05200bf51/output/res/drawable/card_512.png"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_login_logo.xml",
+        "source": "/Users/success/.android/build-cache/c60ca447a8fe3209c040260708b2c672c9482d97/output/res/drawable/com_facebook_button_login_logo.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/messenger_button_white_bg_selector.xml",
+        "source": "/Users/success/.android/build-cache/e4992c71e3ca46b371ff51d40449dbca19bbbe2b/output/res/drawable/messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/success/.android/build-cache/461dc17a8a0740adf30f9db76c1ed6b6ec6b8f3a/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_auth_dialog_cancel_background.xml",
+        "source": "/Users/success/.android/build-cache/ce358cd07e232338d4676d365cf3b1eff3293aa6/output/res/drawable/com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/tooltip_frame_dark.xml",
+        "source": "/Users/macmall/.android/build-cache/7753013dbcd8323afea167d81076535efc5628ac/output/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/loading_status_bar_background.xml",
+        "source": "/Users/macmall/.android/build-cache/0059ef4ad7af005672f067717bf610b7a8c4af49/output/res/drawable/loading_status_bar_background.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/Git/KinesisPOSMobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/macmall/Project/react-native/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/macmall/.android/build-cache/d870a4f669a3de626bc0744a0c97d519a6850d81/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    }
+]
